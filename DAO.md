@@ -13,3 +13,5 @@ Holders of a [[Limited edition Collection]] will have all the benefits such as:
 - Free tickets for [[MetavExpo]]
 - Access to all areas of [[MetavExpo]]
 - Access to all [[Discord]]'s DAO channels.
+
+test test test
