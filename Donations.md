@@ -1,5 +1,9 @@
+---
+alias: [Charity]
+tags: [feature]
+---
+
 # Donations
-#feature 
 [[Habitat Studio]]
 
 We declare and feel ourselves as promoters of ideas, inspiration, art, beauty, harmony of interiors and exteriors, but we also want to be promoters of the principle according to which "every human being should have a decent place where to live ”, which he can call home.

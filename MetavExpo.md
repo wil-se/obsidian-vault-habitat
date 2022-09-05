@@ -1,5 +1,8 @@
+---
+tags: [feature]
+alias: [Metaverse Expo]
+---
 # MetavExpo
-#feature
 [[Habitat Studio]]
 [[Rewards]]
 
