@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "DAO.md",
+            "file": "Furniture.md",
             "mode": "source",
             "source": false
           }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAO.md",
+                "file": "Furniture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAO.md",
+                "file": "Furniture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAO.md"
+                "file": "Furniture.md"
               }
             }
           }
@@ -137,15 +137,15 @@
   },
   "active": "5fa771e12b618913",
   "lastOpenFiles": [
-    "MetavExpo.md",
-    "Mission.md",
-    "templates/Template Test.md",
-    "templates/Front Matter.md",
-    "Donations.md",
     "Discord.md",
-    "Mistery Gifts.md",
+    "Donations.md",
     "Furniture.md",
-    "Partnership with other studios.md",
-    "Habitat Studio.md"
+    "Habitat Studio.md",
+    "General Collection.md",
+    "Digital Twin.md",
+    "ERC 721.md",
+    "Governance Token.md",
+    "ERC 1155.md",
+    "Rewards.md"
   ]
 }

@@ -1,2 +1,9 @@
+---
+alias: []
+tags: []
+---
+
 # Discord
-[[Mission|Paperino]]
+---
+
+[[DAO]]
