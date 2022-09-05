@@ -1,5 +1,10 @@
-# Habitat Studio
+---
+alias: []
+tags: []
+---
 
+# Habitat Studio
+---
 > “I     believe wherever dreams dwell, the heart calls it home. So may you     untangle yourself from the twist of melancholy and let your thoughts     carry you back to the birthplace of your truth.”   —Dodinsky  
 
 There is no place on Earth that is more personal than our own home. It is a vessel that holds our dreams and our joys, a place that we shape as we see fit in order to express our inner selves. At Habitat Studio we want to bring the intimacy of the hearth in the digital world. In order to do that we believe that the first step is bringing the years of experience of skilled [[Partnership with other studios|designers]] to the metaverse, as well as helping and promoting the ones that want to craft themselves the items to tailor their own [[Digital Twin|digital homes]].
